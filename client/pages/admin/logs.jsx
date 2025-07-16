@@ -1,4 +1,5 @@
 'use client';
+import '../../app/globals.css';
 
 // pages/admin/logs.jsx
 import React, { useEffect, useState } from "react";
